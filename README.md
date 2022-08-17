@@ -1,1 +1,1 @@
-# meu-primeiro-reposit-rio estela
+# meu-primeiro-repositorio estela
